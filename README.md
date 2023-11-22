@@ -9,6 +9,11 @@ the only authorized online presence is [github.com/mission23](https://github.com
 
 from time to time, as desired, the Servants may post things on other platforms. however, any article or quote attributed to the Creator or the Servants of the Creator should first be verified here on the [media](https://github.com/mission23/media/wiki) (for one in broadcast or print) or the [mission23](https://github.com/mission23/mission23/wiki) wiki.
 
+## pray to verify 
+any time you encounter someone introduced to you as, or claiming to be, a Servant of the Creator or you need to verify something attributed to a Servant you should pray to verify it. 
+
+the Creator will always verify for you if you are dealing with one or both of the Servants or if it is something we have written or said. 
+
 ## the Creator
 (capital “C” always)
 the Creator did, in fact, create life and the very universe we all live in. 
