@@ -9,6 +9,11 @@ the only authorized online presence is [github.com/mission23](https://github.com
 
 from time to time, as desired, the Servants may post things on other platforms. however, any article or quote attributed to the Creator or the Servants of the Creator should first be verified here on the [media](https://github.com/mission23/media/wiki) (for one in broadcast or print) or the [mission23](https://github.com/mission23/mission23/wiki) wiki.
 
+## the wire
+the Creator has instructed the Servants to produce an podcast. micah has started "the wire" and you can get it [here on github](https://github.com/mission23/the_wire/tree/master/the_wire).
+
+we will be looking for something more user-friendly on the frontend. 
+
 ## pray to verify 
 any time you encounter someone introduced to you as, or claiming to be, a Servant of the Creator or you need to verify something attributed to a Servant you should pray to verify it. 
 
